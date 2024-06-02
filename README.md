@@ -1,4 +1,4 @@
-# creaw-ollama-agent
+# crew-ollama-agent
 
 :exclamation: experiment
 
