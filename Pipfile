@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+install = "*"
+langchain = "*"
+jupyterlab = "*"
+langchain-community = "*"
+#crewai = {extras = ["tools"], version = "0.5.5"}
+crewai = "==0.5.5"
+duckduckgo-search = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.12"
